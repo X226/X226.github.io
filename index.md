@@ -9,6 +9,6 @@
 类型 | 值
 -|-
 GitHub  |  [https://github.com/X226](https://github.com/X226)
-邮箱    |   xiang.yingjie@qq.com
-ORCID   |   0000-0002-6418-2996
+Email   |  [xiang_dot_yingjie_at_qq_dot_com](xiang.yingjie@qq.com)
+ORCID   |  [0000-0002-6418-2996](https://orcid.org/0000-0002-6418-2996)
 
